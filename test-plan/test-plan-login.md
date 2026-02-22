@@ -20,6 +20,7 @@ Validar el comportamiento del módulo de login de SauceDemo bajo distintos escen
   - locked_out_user / secret_sauce
   - problem_user / secret_sauce
   - performance_glitch_user / secret_sauce
+  - visual_user/ secret_sauce
 
 ## 4. Criterios de entrada
 - La app está disponible y accesible
