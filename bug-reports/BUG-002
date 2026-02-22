@@ -1,0 +1,44 @@
+# BUG-002 — Imágenes incorrectas en inventario con visual_user
+
+## Información general
+| Campo | Detalle |
+|-------|---------|
+| ID | BUG-002 |
+| Fecha | 2026-02-22 |
+| Reportado por | Rodrigo Flores Agreda |
+| Severidad | Media |
+| Prioridad | Media |
+| Estado | Abierto |
+| TC relacionado | TC-008 |
+
+## Descripción
+Al autenticarse con el usuario `visual_user`, los productos del inventario 
+muestran imágenes incorrectas que no corresponden a los artículos listados. 
+Se observan imágenes no relacionadas, entre ellas la foto de un mapache.
+
+## Pasos para reproducir
+1. Ingresar a https://www.saucedemo.com
+2. Autenticarse con usuario: `visual_user` / contraseña: `secret_sauce`
+3. Observar las imágenes de los productos en la página de inventario
+
+## Resultado esperado
+Cada producto debería mostrar su imagen correspondiente correcta.
+
+## Resultado obtenido
+Los productos muestran imágenes incorrectas y no relacionadas con los 
+artículos listados.
+
+## Impacto
+Un usuario real no podría identificar visualmente los productos antes 
+de comprarlos, afectando directamente la experiencia de compra y 
+potencialmente generando devoluciones o pérdida de confianza en la plataforma.
+
+## Entorno
+| Campo | Detalle |
+|-------|---------|
+| Navegador | Edge |
+| SO | Windows 10 |
+| URL | https://www.saucedemo.com/inventory.html |
+
+## Evidencia
+![Imágenes incorrectas en inventario](../evidence/TC008.png)
