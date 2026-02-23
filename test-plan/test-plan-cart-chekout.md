@@ -7,11 +7,11 @@ incluyendo casos positivos, negativos y usuarios con comportamiento especial.
 
 ## 2. Alcance
 **Incluye:**
-- Agregar productos al carrito desde inventario y página individual
-- Eliminar productos desde inventario, página individual y carrito
+- Agregar productos al carrito desde inventario y página individual de cada producto
+- Eliminar productos desde inventario, página individual del producto y carrito
 - Contador del carrito
 - Formulario de checkout (validaciones de campos)
-- Flujo completo de compra hasta confirmación
+- Flujo completo de compra hasta finalización
 
 **Excluye:**
 - Módulo de login (cubierto en test-plan-login.md)
@@ -36,8 +36,8 @@ incluyendo casos positivos, negativos y usuarios con comportamiento especial.
 - Pruebas exploratorias con usuario especial
 
 ## 7. Entorno
-- Navegador: Chrome 133
-- SO: Windows 11
+- Navegador: Edge
+- SO: Windows 10
 
 ## 8. Riesgos identificados
 - El comportamiento de error_user es inestable e impredecible,
