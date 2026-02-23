@@ -6,14 +6,14 @@ verificando el flujo completo de compra bajo distintos usuarios y escenarios,
 incluyendo casos positivos, negativos y usuarios con comportamiento especial.
 
 ## 2. Alcance
-**Incluido:**
+**Incluye:**
 - Agregar productos al carrito desde inventario y página individual
 - Eliminar productos desde inventario, página individual y carrito
 - Contador del carrito
 - Formulario de checkout (validaciones de campos)
 - Flujo completo de compra hasta confirmación
 
-**Excluido:**
+**Excluye:**
 - Módulo de login (cubierto en test-plan-login.md)
 - Ordenamiento y filtrado de productos
 
