@@ -1,33 +1,108 @@
-# QA Portfolio — SauceDemo
+# QA Portfolio — Rodrigo Flores Agreda
 
-Testing manual sobre la aplicación SauceDemo (https://www.saucedemo.com),
-cubriendo módulos de login, carrito y checkout.
+Manual testing portfolio covering functional testing, API testing, 
+and test documentation across multiple projects and applications.
 
-## Estructura del repositorio
-- `test-plan/` — Planes de prueba por módulo
-- `test-cases/` — Casos de prueba ejecutados
-- `bug-reports/` — Bugs encontrados durante la ejecución
-- `evidence/` — Screenshots de evidencia
+---
 
-## Módulos cubiertos
-| Módulo | Test Cases | Bugs encontrados |
-|--------|-----------|-----------------|
-| Login | 8 | 2 |
-| Carrito y Checkout | 13 | 6 |
-| **Total** | **21** | **8** |
+## 📂 Repository Structure
 
-## Bugs por severidad
-| Severidad | Cantidad |
-|-----------|---------|
-| Crítica | 1 |
-| Alta | 5 |
-| Media | 2 |
-| Baja | 0 |
+### 🧪 [SauceDemo — Spanish](./saucedemo-es/)
+Manual testing project over SauceDemo (saucedemo.com) — documented in Spanish.
+- 21 test cases executed across Login, Cart and Checkout modules
+- 8 bugs reported (1 critical, 5 high, 2 medium severity)
+- Test Plans, Test Cases, Bug Reports and Evidence
 
-## Herramientas utilizadas
-- Ejecución manual en Edge
-- Documentación en Markdown
-- GitHub para control de versiones
+### 🧪 [SauceDemo — English](./saucedemo-en/)
+Manual testing project over SauceDemo (saucedemo.com) — documented in English.
+- 21 test cases executed across Login, Cart and Checkout modules
+- 8 bugs reported (1 critical, 5 high, 2 medium severity)
+- Test Plans, Test Cases, Bug Reports and Evidence
 
-## Autor
-Rodrigo Flores Agreda — [LinkedIn](https://www.linkedin.com/in/rodrigo-flores-agreda) | [GitHub](https://github.com/rodrijfa)
+### 🔌 [API Testing](./api-testing/)
+*Coming soon — Postman collections and API test documentation.*
+
+### ⚙️ [Automation](./automation/)
+*Coming soon — Selenium/Cypress automation scripts.*
+
+---
+
+## 🛠️ Tools Used
+- Postman — API Testing
+- Jira — Bug tracking and ticket management
+- GitHub — Version control and documentation
+- Selenium — Automation (in progress)
+- Markdown — Documentation
+
+---
+
+## 📜 Certifications
+- Introduction to Software Testing — University of Minnesota (Feb. 2026)
+- Postman API Testing — Packt (Feb. 2026)
+- Jira for QA Testing — Coursera (Feb. 2026)
+- Quality Assurance — freeCodeCamp (Feb. 2026)
+
+---
+
+## 👤 Author
+Rodrigo Flores Agreda
+[LinkedIn](https://www.linkedin.com/in/rodrigo-flores-agreda/) | 
+[GitHub](https://github.com/rodrijfa)
+rodrijfa@gmail.com
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+# QA Portfolio — Rodrigo Flores Agreda
+
+Portfolio de testing manual que cubre pruebas funcionales, testing de APIs
+y documentación técnica en múltiples proyectos y aplicaciones.
+
+---
+
+## 📂 Estructura del Repositorio
+
+### 🧪 [SauceDemo — Español](./saucedemo-es/)
+Proyecto de testing manual sobre SauceDemo (saucedemo.com) — documentado en español.
+- 21 casos de prueba ejecutados en módulos de Login, Carrito y Checkout
+- 8 bugs reportados (1 crítico, 5 de alta severidad, 2 de severidad media)
+- Planes de prueba, casos de prueba, reportes de bugs y evidencia
+
+### 🧪 [SauceDemo — Inglés](./saucedemo-en/)
+Proyecto de testing manual sobre SauceDemo (saucedemo.com) — documentado en inglés.
+- 21 casos de prueba ejecutados en módulos de Login, Carrito y Checkout
+- 8 bugs reportados (1 crítico, 5 de alta severidad, 2 de severidad media)
+- Planes de prueba, casos de prueba, reportes de bugs y evidencia
+
+### 🔌 [API Testing](./api-testing/)
+*Próximamente — Colecciones de Postman y documentación de pruebas de API.*
+
+### ⚙️ [Automatización](./automation/)
+*Próximamente — Scripts de automatización con Selenium/Cypress.*
+
+---
+
+## 🛠️ Herramientas Utilizadas
+- Postman — Testing de APIs
+- Jira — Gestión de bugs y tickets
+- GitHub — Control de versiones y documentación
+- Selenium — Automatización (en desarrollo)
+- Markdown — Documentación
+
+---
+
+## 📜 Certificaciones
+- Introducción a las Pruebas de Software — University of Minnesota (Feb. 2026)
+- Postman API Testing — Packt (Feb. 2026)
+- Jira para QA Testing — Coursera (Feb. 2026)
+- Aseguramiento de Calidad — freeCodeCamp (Feb. 2026)
+
+---
+
+## 👤 Autor
+Rodrigo Flores Agreda
+[LinkedIn](https://www.linkedin.com/in/rodrigo-flores-agreda/) | 
+[GitHub](https://github.com/rodrijfa)
+rodrijfa@gmail.com
