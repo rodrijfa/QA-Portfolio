@@ -20,7 +20,10 @@ Manual testing project over SauceDemo (saucedemo.com) — documented in English.
 - Test Plans, Test Cases, Bug Reports and Evidence
 
 ### 🔌 [API Testing](./api-testing/)
-*Coming soon — Postman collections and API test documentation.*
+API testing projects using Postman — REST API validation, authentication 
+flows, CRUD operations and assertion scripting.
+- ✅ Restful-Booker — 9 test cases, 1 bug reported
+- 🔜 Coming soon: additional API projects
 
 ### ⚙️ [Automation](./automation/)
 *Coming soon — Selenium/Cypress automation scripts.*
@@ -50,10 +53,8 @@ Rodrigo Flores Agreda
 [GitHub](https://github.com/rodrijfa)
 rodrijfa@gmail.com
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
+---
+---
 
 # QA Portfolio — Rodrigo Flores Agreda
 
@@ -77,7 +78,10 @@ Proyecto de testing manual sobre SauceDemo (saucedemo.com) — documentado en in
 - Planes de prueba, casos de prueba, reportes de bugs y evidencia
 
 ### 🔌 [API Testing](./api-testing/)
-*Próximamente — Colecciones de Postman y documentación de pruebas de API.*
+Proyectos de testing de APIs usando Postman — validación REST, flujos de 
+autenticación, operaciones CRUD y scripting de assertions.
+- ✅ Restful-Booker — 9 casos de prueba, 1 bug reportado
+- 🔜 Próximamente: proyectos adicionales de API testing
 
 ### ⚙️ [Automatización](./automation/)
 *Próximamente — Scripts de automatización con Selenium/Cypress.*
