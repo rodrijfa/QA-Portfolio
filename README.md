@@ -1,7 +1,7 @@
 # QA Portfolio — Rodrigo Flores Agreda
 
 Manual testing portfolio covering functional testing, API testing, 
-and test documentation across multiple projects and applications.
+and test automation across multiple projects and applications.
 
 ---
 
@@ -25,16 +25,20 @@ flows, CRUD operations and assertion scripting.
 - ✅ Restful-Booker — 9 test cases, 1 bug reported
 - 🔜 Coming soon: additional API projects
 
-### ⚙️ [Automation](./automation/)
-*Coming soon — Selenium/Cypress automation scripts.*
+### ⚙️ [SauceDemo Login Automation](./saucedemo-automation-selenium/)
+Test automation project using Selenium and Python over SauceDemo (saucedemo.com).
+- 8 automated test cases covering the Login module
+- HTML report generation
+- Automatic screenshot capture on failure
+- 1 visual defect automatically detected (visual_user incorrect image)
 
 ---
 
 ## 🛠️ Tools Used
 - Postman — API Testing
+- Selenium + Python — Test Automation
 - Jira — Bug tracking and ticket management
 - GitHub — Version control and documentation
-- Selenium — Automation (in progress)
 - Markdown — Documentation
 
 ---
@@ -44,6 +48,7 @@ flows, CRUD operations and assertion scripting.
 - Postman API Testing — Packt (Feb. 2026)
 - Jira for QA Testing — Coursera (Feb. 2026)
 - Quality Assurance — freeCodeCamp (Feb. 2026)
+- Introduction to Python and Basic Selenium Setup — Packt (Mar. 2026)
 
 ---
 
@@ -58,8 +63,8 @@ rodrijfa@gmail.com
 
 # QA Portfolio — Rodrigo Flores Agreda
 
-Portfolio de testing manual que cubre pruebas funcionales, testing de APIs
-y documentación técnica en múltiples proyectos y aplicaciones.
+Portfolio de testing que cubre pruebas funcionales, testing de APIs
+y automatización de pruebas en múltiples proyectos y aplicaciones.
 
 ---
 
@@ -83,16 +88,20 @@ autenticación, operaciones CRUD y scripting de assertions.
 - ✅ Restful-Booker — 9 casos de prueba, 1 bug reportado
 - 🔜 Próximamente: proyectos adicionales de API testing
 
-### ⚙️ [Automatización](./automation/)
-*Próximamente — Scripts de automatización con Selenium/Cypress.*
+### ⚙️ [SauceDemo Login Automation](./saucedemo-automation-selenium/)
+Proyecto de automatización de pruebas usando Selenium y Python sobre SauceDemo (saucedemo.com).
+- 8 casos de prueba automatizados cubriendo el módulo de Login
+- Generación de reporte HTML
+- Captura automática de screenshots en fallos
+- 1 defecto visual detectado automáticamente (imagen incorrecta con visual_user)
 
 ---
 
 ## 🛠️ Herramientas Utilizadas
 - Postman — Testing de APIs
+- Selenium + Python — Automatización de pruebas
 - Jira — Gestión de bugs y tickets
 - GitHub — Control de versiones y documentación
-- Selenium — Automatización (en desarrollo)
 - Markdown — Documentación
 
 ---
@@ -102,6 +111,7 @@ autenticación, operaciones CRUD y scripting de assertions.
 - Postman API Testing — Packt (Feb. 2026)
 - Jira para QA Testing — Coursera (Feb. 2026)
 - Aseguramiento de Calidad — freeCodeCamp (Feb. 2026)
+- Introducción a Python y Configuración de Selenium — Packt (Mar. 2026)
 
 ---
 
